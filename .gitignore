@@ -1,2 +1,4 @@
 rss-feed
 .env
+.vscode
+postgres-rss-feed.session.sql
